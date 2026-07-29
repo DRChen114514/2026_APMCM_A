@@ -1,0 +1,5 @@
+variable,optimal_lag_steps,optimal_lag_hours,ccf_value,direction
+RW_NTU,9,18,-0.03220681790808522,negative
+RW_PH,0,0,-0.034815336052829264,negative
+ALUM,0,0,0.11276151169475475,positive
+RW_FLOW,10,20,0.04409214729706523,positive

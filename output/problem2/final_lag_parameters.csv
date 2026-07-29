@@ -1,0 +1,5 @@
+variable,optimal_lag_steps,optimal_lag_hours,ccf_value,direction,physical_interpretation
+RW_NTU,9,18,-0.03220681790808522,negative,原水浊度经混凝沉淀过滤后到达滤后检测点
+RW_PH,0,0,-0.034815336052829264,negative,pH影响混凝效果，需经混合反应后才显现
+ALUM,0,0,0.11276151169475475,positive,矾投加后经混合-絮凝-沉淀-过滤才见效果
+RW_FLOW,10,20,0.04409214729706523,positive,流量变化影响水力停留时间，进而影响去除效果
